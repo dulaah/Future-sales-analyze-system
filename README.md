@@ -26,7 +26,7 @@ It includes a **login system**, a **dashboard** for chart generation, and **sale
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 Ceylon-Styles-System/
 │── ceylon_styles.py # Main Python source code
 │── requirements.txt # Dependencies
