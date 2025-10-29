@@ -8,7 +8,7 @@ It includes a **login system**, a **dashboard** for chart generation, and **sale
 
 ---
 
-## 🎯 Features
+# 🎯 Features
 ### 🔑 Authentication
 - Secure **Admin Login** with username & password.
 
