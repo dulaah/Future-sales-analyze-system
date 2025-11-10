@@ -8,25 +8,25 @@ It includes a **login system**, a **dashboard** for chart generation, and **sale
 
 ---
 
-# 🎯 Features
+#  Features
 ### 🔑 Authentication
 - Secure **Admin Login** with username & password.
 
-### 📊 Sales Data Visualization
+###  Sales Data Visualization
 - Upload Excel-based sales reports (`.xlsx` / `.xls`).  
 - Generate different chart types:
   - **Line Chart**: Sales trends by product.  
   - **Bar Chart**: Total monthly sales.  
   - **Pie Chart**: Sales distribution by product.  
 
-### 📈 Sales Forecasting
+###  Sales Forecasting
 - **Product-wise forecasting** using Linear Regression.  
 - **Overall sales forecasting** with seasonal variations & noise factors for realistic trends.  
 - Predictions shown in **line charts with past vs future data**.
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 Ceylon-Styles-System/
 │── ceylon_styles.py # Main Python source code
 │── requirements.txt # Dependencies
